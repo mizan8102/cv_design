@@ -1,3 +1,2 @@
-# Resume in HTML Document
-Link: https://shamimshakir.github.io/resume/
-# Resume in pdf version
+#CV Live Link -
+https://mizan8102.github.io/cv_design/
